@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">5dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="linear_width">250dp</dimen>
+    <dimen name="image_width">50dp</dimen>
+    <dimen name="image_height">50dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="edit_height">60dp</dimen>
+    <dimen name="padding_left">5dp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="image_heigh">0dp</dimen>
+</resources>
